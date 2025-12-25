@@ -42,6 +42,12 @@ The goal is to demonstrate data analysis skills using Python, Pandas, and Matplo
 ---
 
 ## 📈 Sample Visualization
+## 📊 Advanced Visualizations
+- Job Title Distribution
+- Average Experience by Role
+- Experience vs Connections Scatter Plot
+- Industry-wise Profile Distribution
+- Top 10 Most Connected Profiles
 ![Job Titles](visuals/job_titles.png)
 
 ---
